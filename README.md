@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# PALAPA
 
-You can use the [editor on GitHub](https://github.com/isnain-dr/sdi.project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Palapa adalah aplikasi simpul jaringan yang berfungsi sebagai geoportal yang menyediakan katalog dan metadata serta layanan GIS berbasis web. Aplikasi simpul jaringan PALAPA bertujuan sebagai sarana berbagi data (data sharing), publikasi dan disseminasi data. Aplikasi simpul jaringan PALAPA yang dibangun merupakan aplikasi yang open source atau kode sumber yang terbuka yang dinamakan PALAPA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Geoportal PALAPA dikembangkan oleh Badan Informasi Geospasial (BIG) dan dapat digunakan secara bebas oleh Kementerian dan Lembaga, Pemerintah Provinsi, Pemerintah Kota dan Kabupaten sebagai aplikasi simpul jaringan di instansi masing-masing. Geoportal PALAPA ini merupakan aplikasi open source.
 
-### Markdown
+## GSPalapa-FrontEnd
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GSPALAPA-FrontEnd merupakan Front End aplikasi PALAPA
 
-```markdown
-Syntax highlighted code block
+## Lisensi
 
-# Header 1
-## Header 2
-### Header 3
+PALAPA menggunakan lisensi [GPL]
 
-- Bulleted
-- List
+## Penggunaan
 
-1. Numbered
-2. List
+Silakan mnegacu kepada dokumentasi untuk informasi dan bagaimana melakukan instalasi dan menggunakan PALAPA.
 
-**Bold** and _Italic_ and `Code` text
+## Kontribusi
 
-[Link](url) and ![Image](src)
-```
+Silakan membaca petunjuk kontribusi yang akan segera tersedia
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Informasi lebih lanjut
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isnain-dr/sdi.project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Silakan kontak Badan Informasi Geospasial (BIG) untuk informasi lebih lanjut
