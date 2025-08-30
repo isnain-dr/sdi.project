@@ -1505,7 +1505,7 @@
 203.194.112.119,8443,ID,First Cagayan Converge Data Center, Inc.
 103.6.207.108,8080,ID,PT. Pusat Media Indonesia
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower
-103.175.218.168,3128,ID,PT. Biznet Gio Nusantara
+103.129.149.32,3128,ID,PT. Biznet Gio Nusantara
 103.175.218.168,8443,ID,PT. Biznet Gio Nusantara
 103.175.218.168,8080,ID,PT. Biznet Gio Nusantara
 103.175.218.168,80,ID,PT. Biznet Gio Nusantara
