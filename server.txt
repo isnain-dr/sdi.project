@@ -3161,8 +3161,8 @@
 91.192.81.154,8443,SG,Melbikomas UAB
 13.250.131.37,443,SG,Amazon Data Services Singapore
 83.142.30.4,2096,SG,Zappie Host LLC
-194.233.70.63,443,SG,Contabo Asia Private Limited
-173.234.15.229,443,SG,Leaseweb Asia Pacific Pte. Ltd.
+194.233.70.63,8443,SG,Contabo Asia Private Limited
+173.234.15.229,8443,SG,Leaseweb Asia Pacific Pte. Ltd.
 5.180.55.184,2053,SK,WorkTitans B.V.
 148.135.22.233,48625,TF,MULTACOM CORPORATION
 45.144.167.46,19816,TH,ReadyIDC Co., Ltd.
