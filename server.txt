@@ -1506,7 +1506,7 @@
 103.6.207.108,8080,ID,PT. Pusat Media Indonesia
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower
 103.129.149.32,3128,ID,PT. Biznet Gio Nusantara
-103.175.218.168,8443,ID,PT. Biznet Gio Nusantara
+112.78.138.163,5678,ID,PT. Biznet Gio Nusantara
 103.175.218.168,8080,ID,PT. Biznet Gio Nusantara
 103.175.218.168,80,ID,PT. Biznet Gio Nusantara
 40.113.60.248,2053,IE,Microsoft Corporation
